@@ -16,11 +16,11 @@ Features:
 - 高并发处理
 - 单命令部署
 - 非交互式触发
-```
+
 
 ## 快速开始
 ➡️ [体验机器人](https://t.me/nl214bot)  
-`转账即触发` | `TRX/U自动兑换`
+# 转账即触发 | TRX/U自动兑换
 
 ## 能量租赁
 ### 转租系统
@@ -36,15 +36,15 @@ Features:
 | 131k | 6TRX | 2次 |
 
 📌 能量租赁地址（正常使用中）：  
-`TH6u477MQHmH6RoPwECHWkUTaZ58666666`
+## TH6u477MQHmH6RoPwECHWkUTaZ58666666
 
 ## API服务
-```json
+
 {
   "api_types": ["能量", "笔数", "速充"],
   "lowest_price": "3TRX/65k能量" 
 }
-```
+
 [联系客服](https://t.me/vking4)
 
 ## 会员套餐
@@ -56,7 +56,7 @@ Features:
 
 ## 配套工具
 [恒运能量机器人](https://t.me/nl214bot)  
-`交易监控` | `资产查询`
+# 交易监控 | 资产查询
 
 ## 部署选项
 - 🖥 自建教程: [查看]()  
@@ -65,6 +65,6 @@ Features:
 ---
 🌐 Keywords:  
 `energy rent` | `tron api` | `TRX exchange`
-``` 
+
 
 注：此为优化后的紧凑版MD代码，可直接复制使用。保留了所有关键业务点，采用更简洁的排版结构，并确保所有功能可见性。需要补充实际链接时替换[]()内容即可。
